@@ -74,7 +74,7 @@
  ('押す【おす】 (osu)', 'to push; to press', 'Godan verb, Transitive verb'),
  ('終わる【おわる】 (owaru)', 'to finish; to end', 'Godan verb, Intransitive verb'),
  ('泳ぐ【およぐ】 (oyogu)', 'to swim', 'Godan verb, Intransitive verb'),
- ('練習【れんしゅう】 (renshuu)', 'practice; practicing', 'Verb, Suru verb'),
+ ('練習【れんしゅう】 (renshuu)', 'practice; practicing', 'x'),
  ('旅行【りょこう】 (ryokou)','travel; trip; journey; excursion; tour','Verb, Suru verb'),
  ('料理【りょうり】 (ryouri)', 'cuisine', 'Suru verb'),
  ('咲く【さく】 (saku)', 'to bloom', 'Godan verb, Intransitive verb'),
